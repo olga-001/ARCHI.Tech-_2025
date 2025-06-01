@@ -1,4 +1,4 @@
-# 📦 ARCHI.Tech-_2025 — Data Architecture for Digital Ruble Platform (ЦВЦБ)
+# 📦 ARCHI.Tech_2025 - Data Architecture for Digital Ruble Platform (ЦВЦБ)
 
 ## 🧩 Описание проекта
 
@@ -53,5 +53,5 @@
 
 ---
 
-👤 *Автор: команда Olga_001*  
+👤 *Автор: Olga_001*  
 🏁 *Хакатон ARCHI.Tech 2025*
