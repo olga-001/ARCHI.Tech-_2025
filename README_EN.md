@@ -1,8 +1,8 @@
-# 📦 ARCHI.Tech-_2025 — Data Architecture for the Digital Ruble Platform (CBDC)
+# 📦 ARCHI.Tech_2025 - Data Architecture for the Digital Ruble Platform (CBDC)
 
 ## 🧩 Project Overview
 
-This repository contains materials related to the data architecture of the Central Bank Digital Currency (CBDC) platform — the digital ruble. The model was developed as part of the **ARCHI.Tech 2025** hackathon and follows the requirements set by the Bank of Russia for the secure, transparent, and compliant exchange of information.
+This repository contains materials related to the data architecture of the Central Bank Digital Currency (CBDC) platform - the digital ruble. The model was developed as part of the **ARCHI.Tech 2025** hackathon and follows the requirements set by the Bank of Russia for the secure, transparent, and compliant exchange of information.
 
 The conceptual model describes key entities and processes, including digital wallets, signature mechanisms (digital certificate + device fingerprint), electronic message interactions (ES), client consents, payment orders, and operational audit logging.
 
@@ -33,9 +33,9 @@ The conceptual model describes key entities and processes, including digital wal
 
 ## 🚀 Technologies Used
 
-- **Enterprise Architect** — for UML class modeling
-- **Microsoft PowerPoint** — for visual presentation
-- **Enterprise Architect HTML Export** — to share the model in browser-friendly format
+- **Enterprise Architect** - for UML class modeling
+- **Microsoft PowerPoint** - for visual presentation
+- **Enterprise Architect HTML Export** - to share the model in browser-friendly format
 
 ---
 
@@ -49,9 +49,9 @@ The conceptual model describes key entities and processes, including digital wal
 
 ## 📄 License
 
-This project is distributed under the **MIT License** — free use, copying, and modification is permitted with attribution.
+This project is distributed under the **MIT License** - free use, copying, and modification is permitted with attribution.
 
 ---
 
-👤 *Author: Team Olga_001*  
+👤 *Author: Olga_001*  
 🏁 *Hackathon: ARCHI.Tech 2025*
